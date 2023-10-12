@@ -1,0 +1,72 @@
+
+{
+	"track": "monza",
+	"number_of_sessions": 1,
+	"players": [
+		{
+			"name": "User",
+			"car": "ks_mclaren_650_gt3",
+			"skin": "00_racing_59"
+		}],
+	"sessions": [
+		{
+			"event": 0,
+			"name": "Practice",
+			"type": 1,
+			"lapsCount": 0,
+			"duration": 0,
+			"laps": [
+				{
+					"lap": 0,
+					"car": 0,
+					"sectors": [76804, 45805, 46692],
+					"time": 169301,
+					"cuts": 0,
+					"tyre": "M"
+				}, 
+				{
+					"lap": 1,
+					"car": 0,
+					"sectors": [40858, 44086, 51579],
+					"time": 136523,
+					"cuts": 0,
+					"tyre": "M"
+				}, 
+				{
+					"lap": 2,
+					"car": 0,
+					"sectors": [43410, 45566, 45198],
+					"time": 134174,
+					"cuts": 0,
+					"tyre": "M"
+				}, 
+				{
+					"lap": 3,
+					"car": 0,
+					"sectors": [43608, 44455, 43655],
+					"time": 131718,
+					"cuts": 0,
+					"tyre": "M"
+				}, 
+				{
+					"lap": 4,
+					"car": 0,
+					"sectors": [42497, 41634, 42966],
+					"time": 127097,
+					"cuts": 0,
+					"tyre": "M"
+				}],
+			"lapstotal": [5],
+			"bestLaps": [
+				{
+					"car": 0,
+					"time": 127097,
+					"lap": 4
+				}]
+		}],
+	"extras": [
+		{
+			"name": "bestlap",
+			"time": 127097
+		}]
+}

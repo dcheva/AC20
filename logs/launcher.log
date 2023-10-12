@@ -1,0 +1,535 @@
+12-Oct-23 13:46:59 
+Skipped MoveUGC
+1: IGNOREDPI
+ PID: 392
+
+AC Launcher ver. 0.17.1222.5071
+Running on: Microsoft Windows NT 6.2.9200.0 x64
+Searching for .config at: AssettoCorsa.exe -> C:\Games\Assetto Corsa\AssettoCorsa.exe.Config
+Current Culture: en-US / en-US
+Length:1
+assembly loading: Steamworks.NET.dll
+Loading C:\Games\Assetto Corsa\launcher\support\Steamworks.NET.dll
+assembly loading: CEF3.dll
+Loading C:\Games\Assetto Corsa\launcher\support\CEF3.dll
+Initializing Steam: True
+Steam ID: 90071996842377217
+assembly loading: AC.CEF3.dll
+Loading C:\Games\Assetto Corsa\launcher\support\AC.CEF3.dll
+OnBeforeCommandLineProcessing - switches: 25 - args: 0
+bwsi
+content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553
+disable-backing-store-limit
+disable-cast
+disable-dhcp-wpad
+disable-extensions
+disable-gpu
+disable-gpu-compositing
+disable-renderer-accessibility
+disable-spell-checking
+enable-direct-write
+enable-widevine-cdm
+font-cache-shared-handle=1468
+force-device-scale-factor=1
+js-flags="--expose-gc"
+lang=en-US
+log-file=D:\Documents\Assetto Corsa\logs\launcher_debug.log
+log-severity=info
+no-proxy-server
+no-sandbox
+num-raster-threads=2
+remote-debugging-port=30150
+user-agent=Assetto Corsa Launcher
+video-image-texture-target=3553
+winhttp-proxy-resolver
+MainProcess
+App Language set to: ru
+Locale Dictionary Refresh
+Locale Dictionary Initialized
+Hardware acceleration: True
+App Language set to: ru
+Create main window
+assembly loading: SlimDX.dll
+Loading C:\Games\Assetto Corsa\launcher\support\SlimDX.dll
+Themes found:
+	Assetto Corsa v.0.17.0522.5025  *
+Set to fullscreen
+Showing main window
+WPF in software mode
+Browser Attached
+Type:Normal
+vJoy Device acquired successfully
+Adding vJoy Device (cbc63870-5318-11ee-8007-444553540000) at 0 (FirstPerson)
+Device released: vJoy Device
+No controllers with assigned controls defined in controls.ini
+Steam callback timer active
+ls: about:blank
+le: about:blank
+Intro Complete
+>>>C:\Games\Assetto Corsa\launcher\themes\default
+lu: file:///C:/Games/Assetto Corsa/launcher/themes/default/video/player.html?video=file%3a%2f%2f%2fC%3a%2fGames%2fAssetto+Corsa%2flauncher%2fthemes%2fdefault%2fvideo%2fintro.ogv&volume=0.5
+ls: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/video/player.html?video=file%3a%2f%2f%2fC%3a%2fGames%2fAssetto+Corsa%2flauncher%2fthemes%2fdefault%2fvideo%2fintro.ogv&volume=0.5 *
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 0 x 0 -- 0,0,0,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Starting theme engine
+Requesthandler Steam API: True
+Received forcetotheme
+Viewing theme
+_bC: 1920x1080 1920x1080 - True
+le: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/video/player.html?video=file%3a%2f%2f%2fC%3a%2fGames%2fAssetto+Corsa%2flauncher%2fthemes%2fdefault%2fvideo%2fintro.ogv&volume=0.5 *
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+BHS
+Dispatcher invoked: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/video/player.html?video=file%3a%2f%2f%2fC%3a%2fGames%2fAssetto+Corsa%2flauncher%2fthemes%2fdefault%2fvideo%2fintro.ogv&volume=0.5
+Loading theme URL: False
+Dispatcher operation completed.
+lu: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/index.html
+ls: ac://home
+ls: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/index.html *
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Starting theme engine
+le: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/index.html *
+Dispatcher invoked: file:///C:/Games/Assetto%20Corsa/launcher/themes/default/index.html
+Loading theme URL: True
+Including default JS libraries
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\init.js (156573)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery-1.9.1.js (277978)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery.easing.js (9336)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery.flot.js (106797)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery.selectbox.js (15469)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery.stickyfloat.js (6728)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\jquery.ui.js (448297)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\ac.utils.js (28699)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\__ACClasses.js (12933)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\__AC.js (13009)
+Loading script C:\Games\Assetto Corsa\launcher\themes\.base\__ACUI.js (2093)
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 0/0 x 0/0 (1/1)
+Dispatcher operation completed.
+* Initializing UI
+* Loading content
+* Populating lists
+* Populating car lists
+* Populating brand lists
+* Populating track lists
+* Populating track meta data
+* Populating track countries
+* Populating car tags
+* Populating favorites
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 0 x 0 -- 0,0,0,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+Available Video Modes
+1: 640 x 480 @ 60Hz
+2: 720 x 480 @ 56.25Hz
+3: 720 x 480 @ 56.25Hz
+4: 720 x 480 @ 60.32Hz
+5: 720 x 480 @ 60.32Hz
+6: 720 x 576 @ 56.25Hz
+7: 720 x 576 @ 56.25Hz
+8: 720 x 576 @ 60.32Hz
+9: 720 x 576 @ 60.32Hz
+10: 800 x 600 @ 56.25Hz
+11: 800 x 600 @ 60.32Hz
+12: 1024 x 768 @ 60Hz
+13: 1024 x 768 @ 70.07Hz
+14: 1152 x 864 @ 75Hz
+15: 1280 x 720 @ 59.81Hz
+16: 1280 x 720 @ 59.81Hz
+17: 1280 x 768 @ 59.81Hz
+18: 1280 x 768 @ 59.81Hz
+19: 1280 x 800 @ 59.81Hz
+20: 1280 x 960 @ 60Hz
+21: 1280 x 960 @ 60Hz
+22: 1280 x 1024 @ 60Hz
+23: 1280 x 1024 @ 60Hz
+24: 1360 x 768 @ 59.89Hz
+25: 1360 x 768 @ 59.89Hz
+26: 1366 x 768 @ 59.89Hz
+27: 1366 x 768 @ 59.89Hz
+28: 1440 x 900 @ 59.89Hz
+29: 1440 x 1080 @ 60Hz
+30: 1440 x 1080 @ 60Hz
+31: 1600 x 900 @ 60Hz
+32: 1600 x 900 @ 60Hz
+33: 1600 x 1024 @ 60Hz
+34: 1600 x 1024 @ 60Hz
+35: 1680 x 1050 @ 60Hz
+36: 1680 x 1050 @ 60Hz
+37: 1920 x 1080 @ 60Hz
+* Loading modules
+* Synchronizing Steam achievements
+* Synchronization failed
+* Applying localization - ru
+Received UIReady
+Monitoring for: acs.exe
+* UI Initialized
+Viewing theme
+_bC: 1920x1080 1920x1080 - True
+12-Oct-23 13:48:03 >> acs start call
+12-Oct-23 13:48:03 >> acs spawner 
+>> NoResize
+12-Oct-23 13:48:04 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 13:51:13 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 13:52:30 - Controls setup: Visible
+CS: OCC f: 66361692 s: 66361692 -- 00000000-0000-0000-0000-000000000000
+CS: OCC f: 66361692 s: 66361692 -- 00000000-0000-0000-0000-000000000000
+12-Oct-23 13:54:35 - Controls setup: Hidden
+Device released: vJoy Device
+PING 192.168.101.157 - server ping attempts: 11
+12-Oct-23 14:00:02 >> acs start call
+12-Oct-23 14:00:02 >> acs spawner 
+>> NoResize
+12-Oct-23 14:00:02 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:00:45 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:01:03 >> acs start call
+12-Oct-23 14:01:03 >> acs spawner 
+>> NoResize
+12-Oct-23 14:01:03 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:04:02 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:04:08 >> acs start call
+12-Oct-23 14:04:08 >> acs spawner 
+>> NoResize
+12-Oct-23 14:04:09 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:04:50 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+12-Oct-23 14:04:54 - Controls setup: Visible
+Return from session timer end.
+12-Oct-23 14:06:56 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:07:03 >> acs start call
+12-Oct-23 14:07:03 >> acs spawner 
+>> NoResize
+12-Oct-23 14:07:04 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:12:34 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:12:44 >> acs start call
+12-Oct-23 14:12:44 >> acs spawner 
+>> NoResize
+12-Oct-23 14:12:46 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:13:47 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:15:50 >> acs start call
+12-Oct-23 14:15:50 >> acs spawner 
+>> NoResize
+12-Oct-23 14:15:51 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:17:03 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:17:08 - Controls setup: Visible
+12-Oct-23 14:18:52 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:18:57 >> acs start call
+12-Oct-23 14:18:57 >> acs spawner 
+>> NoResize
+12-Oct-23 14:18:57 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:22:10 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:22:16 - Controls setup: Visible
+Device released: vJoy Device
+12-Oct-23 14:26:40 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:26:47 >> acs start call
+12-Oct-23 14:26:47 >> acs spawner 
+>> NoResize
+12-Oct-23 14:26:47 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:28:54 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:29:04 - Controls setup: Visible
+Device released: vJoy Device
+12-Oct-23 14:29:50 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:29:54 >> acs start call
+12-Oct-23 14:29:54 >> acs spawner 
+>> NoResize
+12-Oct-23 14:29:56 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:36:14 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+12-Oct-23 14:36:18 - Controls setup: Visible
+Return from session timer end.
+12-Oct-23 14:36:56 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:37:00 >> acs start call
+12-Oct-23 14:37:00 >> acs spawner 
+>> NoResize
+12-Oct-23 14:37:02 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:38:39 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+12-Oct-23 14:38:44 - Controls setup: Visible
+Return from session timer end.
+12-Oct-23 14:39:02 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:39:06 >> acs start call
+12-Oct-23 14:39:06 >> acs spawner 
+>> NoResize
+12-Oct-23 14:39:07 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:39:47 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+12-Oct-23 14:39:51 - Controls setup: Visible
+Return from session timer end.
+12-Oct-23 14:40:06 - Controls setup: Hidden
+Device released: vJoy Device
+12-Oct-23 14:40:10 >> acs start call
+12-Oct-23 14:40:10 >> acs spawner 
+>> NoResize
+12-Oct-23 14:40:11 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 14:46:09 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:48:56 >> acs start call
+12-Oct-23 14:48:56 >> acs spawner 
+>> NoResize
+12-Oct-23 14:48:57 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+Close requested
+Viewing theme
+_bC: 1920x1080 1920x1080 - True
+12-Oct-23 14:49:34 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 14:49:40 >> acs start call
+12-Oct-23 14:49:40 >> acs spawner 
+>> NoResize
+12-Oct-23 14:49:40 !>> acs.exe active
+1920 / VSW: 1920 / W: 1920
+Could not connect named pipe.
+12-Oct-23 16:02:40 !>> acs.exe stopped
+1920 / VSW: 1920 / W: 1920
+Regaining focus
+OSC - Returned from session: ignoring resize request. W: 160
+OSC - Returned from session: ignoring resize request. W: 1920
+Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
+Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
+\\.\DISPLAY1 0 / 1858
+Width limited: 2560
+Current screen: 1920 x 1080
+GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
+Window 1920/1920 x 1080/1080 (1/1)
+Resize 1920/1920 x 1080/1080 (1/1)
+Return from session timer end.
+12-Oct-23 16:03:00 > exit *
+12-Oct-23 16:03:00 > exit 1
+12-Oct-23 16:03:00 > exit 1.1
+12-Oct-23 16:03:00 > exit 1.2
+12-Oct-23 16:03:00 > exit 1.3
+12-Oct-23 16:03:00 > exit 1.4
+12-Oct-23 16:03:00 > exit 2
+12-Oct-23 16:03:00 > exit 2.1
+12-Oct-23 16:03:00 > exit 2.2
+12-Oct-23 16:03:00 > exit 2.3
+12-Oct-23 16:03:00 > exit 2.4
+12-Oct-23 16:03:00 > exit 2.5
+12-Oct-23 16:03:00 > exit 2.6
+12-Oct-23 16:03:00 > exit 3
+Credits sequence complete
+Shutdown
+Close requested
+Closing window
+OnExit
+Shutting down Steam API connection (oe)
+12-Oct-23 16:03:05 > app exit

@@ -1,0 +1,1734 @@
+Installing CrashGuard Fault Handler
+Steam Name:User
+Steam ID: 1
+Steam Community ID: 90071996842377217
+LOADING AC VERSION : 1.16.2 (x64)
+-----------PRINTING VIDEO INI-----------
+[VIDEO]
+FULLSCREEN=1
+ANISOTROPIC=16
+AASAMPLES=4
+VSYNC=0
+AAQUALITY=0
+SHADOW_MAP_SIZE=4096
+DISABLE_LEGACY_HDR=1
+FPS_CAP_MS=16.666667
+WIDTH=1920
+HEIGHT=1080
+
+[CAMERA]
+MODE=DEFAULT		; DEFAULT | TRIPLE 
+
+[EFFECTS]
+MOTION_BLUR=1
+FXAA=0				; doesn't work with OCULUS
+SMOKE=3
+RENDER_SMOKE_IN_MIRROR=1
+
+[CUBEMAP]
+SIZE=2048
+FACES_PER_FRAME=4
+FARPLANE=500
+
+[MIRROR]
+SIZE=512
+HQ=0
+
+[ASSETTOCORSA]
+HIDE_ARMS=1
+LOCK_STEER=0
+WORLD_DETAIL=5		; 0 to 5
+HIDE_STEER=0
+
+[SATURATION]
+LEVEL=100
+
+[POST_PROCESS]
+ENABLED=1; on (1) or off (0)
+HEAT_SHIMMER=1 ; on (1) or off (0)
+RAYS_OF_GOD=1 ; on (1) or off (0)
+FXAA=1 ; on (1) or off (0)
+QUALITY=4
+GLARE=4
+DOF=4
+FILTER=natural
+
+-----------END VIDEO INI-----------
+CURRENT LOCALE ru
+WM_SIZE 1920 1080
+QueryPerformanceFrequency: 10000.000000
+[DX11] MAXIMUM_FRAME_LATENCY: 0
+[DX11] MIP_LOD_BIAS: 0.000000
+Display mode 0: 640x480 @ 60.00 [60/1] 28
+Display mode 1: 720x480 @ 56.25 [56250/1000] 28
+Display mode 2: 720x480 @ 56.25 [56250/1000] 28
+Display mode 3: 720x480 @ 60.32 [60317/1000] 28
+Display mode 4: 720x480 @ 60.32 [60317/1000] 28
+Display mode 5: 720x576 @ 56.25 [56250/1000] 28
+Display mode 6: 720x576 @ 56.25 [56250/1000] 28
+Display mode 7: 720x576 @ 60.32 [60317/1000] 28
+Display mode 8: 720x576 @ 60.32 [60317/1000] 28
+Display mode 9: 800x600 @ 56.25 [56250/1000] 28
+Display mode 10: 800x600 @ 60.32 [60317/1000] 28
+Display mode 11: 1024x768 @ 60.00 [60004/1000] 28
+Display mode 12: 1024x768 @ 70.07 [70069/1000] 28
+Display mode 13: 1152x864 @ 75.00 [75/1] 28
+Display mode 14: 1280x720 @ 59.81 [59810/1000] 28
+Display mode 15: 1280x720 @ 59.81 [59810/1000] 28
+Display mode 16: 1280x768 @ 59.81 [59810/1000] 28
+Display mode 17: 1280x768 @ 59.81 [59810/1000] 28
+Display mode 18: 1280x800 @ 59.81 [59810/1000] 28
+Display mode 19: 1280x960 @ 60.00 [60/1] 28
+Display mode 20: 1280x960 @ 60.00 [60/1] 28
+Display mode 21: 1280x1024 @ 60.00 [60/1] 28
+Display mode 22: 1280x1024 @ 60.00 [60/1] 28
+Display mode 23: 1360x768 @ 59.89 [59887/1000] 28
+Display mode 24: 1360x768 @ 59.89 [59887/1000] 28
+Display mode 25: 1366x768 @ 59.89 [59887/1000] 28
+Display mode 26: 1366x768 @ 59.89 [59887/1000] 28
+Display mode 27: 1440x900 @ 59.89 [59887/1000] 28
+Display mode 28: 1440x1080 @ 60.00 [60/1] 28
+Display mode 29: 1440x1080 @ 60.00 [60/1] 28
+Display mode 30: 1600x900 @ 60.00 [60/1] 28
+Display mode 31: 1600x900 @ 60.00 [60/1] 28
+Display mode 32: 1600x1024 @ 60.00 [60/1] 28
+Display mode 33: 1600x1024 @ 60.00 [60/1] 28
+Display mode 34: 1680x1050 @ 60.00 [60/1] 28
+Display mode 35: 1680x1050 @ 60.00 [60/1] 28
+Display mode 36: 1920x1080 @ 60.00 [60/1] 28
+DISPLAY MODE FOUND
+ADAPTER DESCRIPTION
+DESCRIPTION: NVIDIA GeForce GTX 1660
+VIDEO MEM: 5980
+REVISION: 161
+
+***** GOING FULLSCREEN ***
+kglResizeBuffers : 1920 x 1080
+
+SWAP CHAIN DESC
+BufferCount: 1
+BufferDesc.Format: 28
+BufferDesc.Height: 1080
+BufferDesc.RefreshRate: 60.000000
+BufferDesc.ScanlineOrdering: 1
+BufferDesc.Width: 1920
+BufferUsage: 32
+Flags: 2
+OutputWindow: 5245944
+SampleDesc.Count: 1
+SampleDesc.Quality: 0
+SwapEffect: 0
+Windowed: 0
+IsFullscreen: 1
+KGL CREATE FONT Segoe UI with locale 
+KGL CREATE FONT Consolas with locale 
+[SETTINGS] LIVE_UPDATE: 0
+[SETTINGS] MAX_CHANNELS: 256
+FMOD running @48000 speaker mode:0 speakers: 0
+----- Listing FMOD audio drivers -----
+Id: 0
+Name: Speakers (Realtek High Definition Audio)
+System Rate: 48000
+Speaker Mode: STEREO
+Speaker Channels: 2
+
+Id: 1
+Name: Realtek Digital Output (Realtek High Definition Audio)
+System Rate: 48000
+Speaker Mode: STEREO
+Speaker Channels: 2
+
+Currently selected driver: 0
+Audio log (AudioEngine.cpp:939): Audio DSP buffer size: bufferLength 1024, numBuffers 4
+Checking FMOD version 67602 required: 67602
+Audio log (AudioEngine.cpp:1198): Loading bank content/sfx/common.bank
+[ASSETTO_CORSA] SLEEP_TIME: -1
+[ASSETTO_CORSA] WARNINGS_AS_ERRORS: 0
+[TIMER] FORCE_TGT: 0
+[OPTIONS] AUTOFLIP_RECOVERY: 1.000000
+[OPTIONS] DISABLE_SHOW_MODE: 0.000000
+[OPTIONS] PROVIEW_MODE: 0.000000
+[OPTIONS] RENDER_SPLINE: 0.000000
+CREATING YEBIS CAMERA
+Creating render target 1920 1080
+Creating render target 1920 1080
+LOADING PP SET:default
+Loading PP set from: system/cfg/ppfilters/default.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+Default PP filter:natural
+LOADING PP SET:natural
+Loading PP set from: system/cfg/ppfilters/natural.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+******** Kunos Simulazioni Physics Engine ********
+ODE BUILD FLAGS: ODE ODE_EXT_no_debug ODE_EXT_trimesh ODE_EXT_opcode ODE_OPC_16bit_indices ODE_OPC_new_collider ODE_EXT_mt_collisions ODE_EXT_threading ODE_single_precision
+USING FF LOW SPEED VALUES: 3.000000 kmh MIN_VALUE:0.010000
+LOGICAL CPU DETECTED: 6
+INITIALISING PHYSICS THREAD POOL WITH 3 THREADS
+Initialising threading with: 6 cores
+[THREADING] SET_THREAD_AFFINITY_MASK: 0
+[THREADING] USE_TIMER_PROCESS: -1
+TimerProcess: OFF
+Update Clouds Generation to 4_mid_clear 
+Creating render target 512 128
+[MIRRORS] FOV: 10.000000
+[MIRRORS] FAR_PLANE: 400.000000
+KGL CREATE FONT Segoe UI with locale 
+KGL CREATE FONT Segoe UI with locale 
+KGL CREATE FONT Orbitron with locale 
+[BENCHMARK] ACTIVE: 0
+[REPLAY] ACTIVE: 0
+[REMOTE] ACTIVE: 0
+[LIGHTING] SUN_ANGLE: 16.000000
+[LIGHTING] TIME_MULT: 2.000000
+[LIGHTING] CLOUD_SPEED: 0.200000
+[RACE] AI_LEVEL: 98.000000
+[HEADER] VERSION: 1
+-----------PRINTING RACE INI-----------
+[BENCHMARK]
+ACTIVE=0
+
+[CAR_0]
+DRIVER_NAME=User
+MODEL=-
+MODEL_CONFIG=
+NATIONALITY=Planet Earth
+NATION_CODE=
+SKIN=00_racing_59
+
+[DYNAMIC_TRACK]
+LAP_GAIN=700
+PRESET=4
+RANDOMNESS=2
+SESSION_START=98
+SESSION_TRANSFER=80
+
+[GHOST_CAR]
+FILE=
+LOAD=1
+PLAYING=0
+RECORDING=0
+SECONDS_ADVANTAGE=0
+
+[GROOVE]
+MAX_LAPS=30
+STARTING_LAPS=0
+VIRTUAL_LAPS=10
+
+[HEADER]
+VERSION=1
+
+[LAP_INVALIDATOR]
+ALLOWED_TYRES_OUT=-1
+
+[LIGHTING]
+CLOUD_SPEED=0.2
+SUN_ANGLE=16
+TIME_MULT=2
+
+[RACE]
+AI_LEVEL=98
+CARS=1
+CONFIG_TRACK=
+FIXED_SETUP=0
+MODEL=ks_mclaren_650_gt3
+MODEL_CONFIG=
+PENALTIES=0
+TRACK=monza
+
+[REMOTE]
+ACTIVE=0
+GUID=
+NAME=
+PASSWORD=
+REQUESTED_CAR=
+SERVER_IP=
+SERVER_PORT=
+TEAM=
+
+[REPLAY]
+ACTIVE=0
+FILENAME=
+
+[SESSION_0]
+DURATION_MINUTES=0
+NAME=Practice
+SPAWN_SET=PIT
+TYPE=1
+
+[TEMPERATURE]
+AMBIENT=22
+ROAD=31
+
+[WEATHER]
+NAME=4_mid_clear
+
+[WIND]
+DIRECTION_DEG=-1
+SPEED_KMH_MAX=40
+SPEED_KMH_MIN=2
+
+-----------END RACE INI-----------
+[SESSION_0] TYPE: 1
+[SESSION_0] DURATION_MINUTES: 0
+Creating physics track: monza []
+ADDED TRACK SKIN OVERRIDE: default
+LOADING MODEL content/tracks/monza/2.kn5
+VERSION=6
+Loading 1 textures
+LOADING MODEL content/tracks/monza/monza.kn5
+VERSION=6
+Loading 114 textures
+SKINNED TEXTURE content/tracks/monza/skins/default/flag_8.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/tracks/monza/skins/default/Flag_3.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/tracks/monza/skins/default/flag_8.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/tracks/monza/skins/default/flag_8.dds
+SKINNED TEXTURE content/tracks/monza/skins/default/Flag_3.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/tracks/monza/skins/default/Flag_3.dds
+LOADING MODEL content/tracks/monza/1.kn5
+VERSION=6
+Loading 3 textures
+LOADING MODEL content/tracks/monza/3.kn5
+VERSION=6
+Loading 12 textures
+LOADING MODEL content/tracks/monza/4.kn5
+VERSION=6
+Loading 3 textures
+LOADING MODEL content/tracks/monza/5.kn5
+VERSION=6
+Loading 1 textures
+LOADING MODEL content/tracks/monza/100.kn5
+VERSION=6
+Loading 5 textures
+DEBUG TIMER: TrackAvatar::init3D():1289.965800
+CREATING STATIC SUBSPACE AT INDEX:10001
+CREATING STATIC SUBSPACE AT INDEX:10002
+CREATING STATIC SUBSPACE AT INDEX:10003
+CREATING STATIC SUBSPACE AT INDEX:10004
+CREATING STATIC SUBSPACE AT INDEX:10005
+CREATING STATIC SUBSPACE AT INDEX:10006
+CREATING STATIC SUBSPACE AT INDEX:10007
+CREATING STATIC SUBSPACE AT INDEX:10008
+CREATING STATIC SUBSPACE AT INDEX:10009
+CREATING STATIC SUBSPACE AT INDEX:10010
+CREATING STATIC SUBSPACE AT INDEX:2
+CREATING STATIC SUBSPACE AT INDEX:3
+CREATING STATIC SUBSPACE AT INDEX:6
+CREATING STATIC SUBSPACE AT INDEX:16
+CREATING STATIC SUBSPACE AT INDEX:17
+CREATING STATIC SUBSPACE AT INDEX:1
+CREATING STATIC SUBSPACE AT INDEX:13
+CREATING STATIC SUBSPACE AT INDEX:4
+CREATING STATIC SUBSPACE AT INDEX:7
+CREATING STATIC SUBSPACE AT INDEX:8
+CREATING STATIC SUBSPACE AT INDEX:12
+CREATING STATIC SUBSPACE AT INDEX:15
+CREATING STATIC SUBSPACE AT INDEX:14
+CREATING STATIC SUBSPACE AT INDEX:11
+CREATING STATIC SUBSPACE AT INDEX:9
+CREATING STATIC SUBSPACE AT INDEX:10
+CREATING STATIC SUBSPACE AT INDEX:5
+LOOKING FOR: content/tracks/monza/ai/fast_lane.ai
+LOADING SPLINE: content/tracks/monza/ai/fast_lane.ai
+Loading AI Spline: content/tracks/monza/ai/fast_lane.ai
+AI SPLINE VERSION 7
+LOADING VERSION 7
+Points count: 0
+LOADING GRID DATA
+Calculating radius
+Straight 0, start: 0.939203, length: 1257.076660
+Straight 1, start: 0.509076, length: 963.104614
+Straight 2, start: 0.732484, length: 851.817078
+Straight 3, start: 0.251334, length: 650.293335
+Straight 4, start: 0.187499, length: 326.972107
+Straight 5, start: 0.392174, length: 198.123291
+Straight 6, start: 0.458419, length: 176.157135
+Straight 7, start: 0.174964, length: 70.643051
+Straight 8, start: 0.244559, length: 37.460911
+Straight 9, start: 0.385299, length: 34.930340
+Straight 10, start: 0.726895, length: 29.071791
+Straight 11, start: 0.707542, length: 24.341162
+Straight 12, start: 0.690901, length: 10.649462
+Straight 13, start: 0.506719, length: 9.056134
+Straight 14, start: 0.721844, length: 3.066213
+Straight 15, start: 0.716813, length: 3.047971
+Straight 16, start: 0.457098, length: 3.033955
+Straight 17, start: 0.716813, length: 1.544616
+Straight 18, start: 0.939203, length: 1.533082
+Straight 19, start: 0.385299, length: 1.527509
+Straight 20, start: 0.174964, length: 1.524150
+Straight 21, start: 0.458419, length: 1.518374
+Straight 22, start: 0.392174, length: 1.513038
+Straight 23, start: 0.509076, length: 1.504557
+Spline is at last version
+DEBUG TIMER: AISpline::calculateNormals:17.268800
+LOOKING FOR: content/tracks/monza/ai/pit_lane.ai
+LOADING SPLINE: content/tracks/monza/ai/pit_lane.ai
+Loading AI Spline: content/tracks/monza/ai/pit_lane.ai
+AI SPLINE VERSION 7
+LOADING VERSION 7
+Points count: 0
+BUILDING GRID FOR PERFORMANCE
+Calculating radius
+Straight 0, start: 0.213837, length: 672.813293
+Straight 1, start: 0.597202, length: 542.667969
+Straight 2, start: 0.973164, length: 47.214176
+Straight 3, start: 0.188168, length: 18.592205
+Straight 4, start: 0.961067, length: 12.150221
+Straight 5, start: 0.172424, length: 7.661181
+Straight 6, start: 0.961067, length: 1.514271
+Scanning 1147 points
+SPLINE POINTS COUNT : 3750  | PAYLOADS COUNT : 3750
+Loading AI Hints from: content/tracks/monza/data/ai_hints.ini
+DANGER_0 START:0.145000 END:0.175000 LEFT:0.500000 RIGHT:0.500000
+DEBUG TIMER: INIT TRACK SPLINES:1727.741500
+DEBUG TIMER: TrackAvatar::initPhysics():2245.006800
+IDEAL LINE FROM FILE: content/tracks/monza/data/ideal_line.ai
+Loading AI Spline: content/tracks/monza/data/ideal_line.ai
+AI SPLINE VERSION 7
+LOADING VERSION 7
+Points count: 0
+LOADING GRID DATA
+DEBUG TIMER: IDEALLINE:84.788700
+WARNING: TRACK :: NO POSITION DATA FOUND
+TRACK LENGTH: 5758.660645
+DEBUG TIMER: TrackAvatar::TrackAvatar:3649.885500
+[RACE] FIXED_SETUP: 0
+[TEMPERATURE] AMBIENT: 22.000000
+[TEMPERATURE] ROAD: 31.000000
+[WIND] SPEED_KMH_MIN: 2.000000
+[WIND] SPEED_KMH_MAX: 40.000000
+[WIND] DIRECTION_DEG: -1.000000
+[RACE] CARS: 1
+USING DEFAULT DRIVER SYSTEM
+LOADING MODEL content/driver/driver.kn5
+VERSION=6
+Loading 21 textures
+SKINNED TEXTURE content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/2016_Gloves_DIFF.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\_nm/2016_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/MAT_white.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\black/2016_Suit_DIFF.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\_nm/2016_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds
+SKINNED TEXTURE content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/2016_Gloves_DIFF.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/2016_Gloves_DIFF.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\_nm/2016_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\_nm/2016_Gloves_NM.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/MAT_white.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txMaps  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/MAT_white.dds
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\black/2016_Suit_DIFF.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_SUIT\sparco\black/2016_Suit_DIFF.dds
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\_nm/2016_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/driver_SUIT\sparco\_nm/2016_Suit_NM.dds
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/steer.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/shift_dw.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/shift_up.ksanim
+VERSION: 2
+USING DEFAULT DRIVER SYSTEM
+LOADING MODEL content/driver/driver_B.kn5
+VERSION=6
+Loading 0 textures
+SKINNED TEXTURE content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds
+SKINNED TEXTURE content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_HELMET\helmet_base_orange\3/HELMET_2012.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/2016_Gloves_DIFF.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/2016_Gloves_DIFF.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\_nm/2016_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\_nm/2016_Gloves_NM.dds
+SKINNED TEXTURE content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/MAT_white.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txMaps  FILENAME:content/texture/driver_GLOVES\sparco_racecars_arrow_rg7\black_orange_white/MAT_white.dds
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\black/2016_Suit_DIFF.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/driver_SUIT\sparco\black/2016_Suit_DIFF.dds
+SKINNED TEXTURE content/texture/driver_SUIT\sparco\_nm/2016_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/driver_SUIT\sparco\_nm/2016_Suit_NM.dds
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/steer.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/shift_dw.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/shift_up.ksanim
+VERSION: 2
+USING PHYSICS DRIVEN SUSPENSIONS
+LOADING MODEL content/cars/ks_mclaren_650_gt3/mclaren_650_gt3.kn5
+VERSION=6
+Loading 72 textures
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDetail  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDetail  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+INIT LOD:0
+CREATING proview_nodes.ini
+|1.000000 0.000000 0.000000 0.319000|
+|0.000000 0.974370 -0.224951 0.649000|
+|0.000000 0.224951 0.974370 0.522000|
+|0.000000 0.000000 0.000000 1.000000|
+|1.000000 0.000000 0.000000 0.319000|
+|0.000000 0.974370 -0.224951 0.649000|
+|0.000000 0.224951 0.974370 0.522000|
+|0.000000 0.000000 0.000000 1.000000|
+GRAPHICS RADIUS: 0.347926 0.352342
+LOADING MODEL content/cars/ks_mclaren_650_gt3/mclaren_650_gt3_lod_B.kn5
+VERSION=6
+Loading 0 textures
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDetail  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+INIT LOD:1
+|1.000000 0.000000 0.000000 0.319000|
+|0.000000 0.974370 -0.224951 0.649000|
+|0.000000 0.224951 0.974370 0.522000|
+|0.000000 0.000000 0.000000 1.000000|
+LOADING MODEL content/cars/ks_mclaren_650_gt3/mclaren_650_gt3_lod_C.kn5
+VERSION=6
+Loading 0 textures
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDetail  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+INIT LOD:2
+|1.000000 0.000000 0.000000 0.319000|
+|0.000000 0.974370 -0.224951 0.649000|
+|0.000000 0.224951 0.974370 0.522000|
+|0.000000 0.000000 0.000000 1.000000|
+LOADING MODEL content/cars/ks_mclaren_650_gt3/mclaren_650_gt3_lod_D.kn5
+VERSION=6
+Loading 0 textures
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/CARBON_occlusiont.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/Skin.dds
+SKINNED TEXTURE content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDetail  FILENAME:content/cars/ks_mclaren_650_gt3/skins/00_racing_59/metal_detail.dds
+INIT LOD:3
+|1.000000 0.000000 0.000000 0.319000|
+|0.000000 0.974370 -0.224951 0.649000|
+|0.000000 0.224951 0.974370 0.522000|
+|0.000000 0.000000 0.000000 1.000000|
+CAR LOADED IN 1040
+Creating car: ks_mclaren_650_gt3 []
+Data path: content/cars/ks_mclaren_650_gt3/data/
+LOCAL INERTIA: 1715.163940 1961.563965 466.399963
+Brake bias limits set to (0.520000 , 0.800000)
+APPLYING RIM OFFSET: 0.090000
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.83
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.58
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.37
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.18
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_front.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.658562
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.80
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.56
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.35
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.17
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.637567
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.78
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.54
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.33
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.15
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.616573
+cback: 0
+APPLYING RIM OFFSET: 0.090000
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.83
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.58
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.37
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.18
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_front.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.658562
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.80
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.56
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.35
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.17
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.637567
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.78
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.54
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.33
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.15
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.616573
+cback: 0
+APPLYING RIM OFFSET: 0.047000
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.81
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.58
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.38
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.20
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_rear.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.664033
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.79
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.56
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.36
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.19
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.642969
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.76
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.54
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.34
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.17
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.621906
+cback: 0
+APPLYING RIM OFFSET: 0.047000
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.81
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.58
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.38
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.20
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_rear.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.664033
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.79
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.56
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.36
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.19
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.642969
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.76
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.54
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.34
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.17
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.621906
+cback: 0
+TYRE COMPOUND: Slick Soft (S)
+TYRE COMPOUND: Slick Medium (M)
+TYRE COMPOUND: Slick Hard (H)
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_body_AOA_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_body_AOA_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_front_AOA_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_front_AOA_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/height_front_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/height_front_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_rear_AOA_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_rear_AOA_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_diffuser_AOA_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_diffuser_AOA_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/height_diffuser_CL.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/height_diffuser_CD.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/wing_controller_speed.lut
+LOADING DRS
+Loading engine file content/cars/ks_mclaren_650_gt3/data/engine.ini
+VERSION=1
+Loading lut content/cars/ks_mclaren_650_gt3/data/power.lut
+GENERATING COAST CURVE PARAMETERS for section COAST_REF
+COAST CURVE EXAMPLE
+0: 17.041420
+500: 11.124261
+1000: 5.207101
+1500: -0.710059
+2000: -6.627219
+2500: -12.544379
+3000: -18.461538
+3500: -24.378698
+4000: -30.295858
+4500: -36.213017
+5000: -42.130177
+5500: -48.047337
+6000: -53.964497
+6500: -59.881657
+7000: -65.798820
+7500: -71.715981
+8000: -77.633141
+LOADING THROTTLE LUT
+Loading lut content/cars/ks_mclaren_650_gt3/data/throttle.lut
+Loading dynamic controller for Turbo: 0
+DYNAMIC CONTROLLER INPUT LIST:
+- AVG_TRAVEL_REAR
+- BRAKE
+- CONST
+- GAS
+- GEAR
+- LATG
+- LOAD_SPREAD_LF
+- LOAD_SPREAD_RF
+- LONG
+- OVERSTEER_FACTOR
+- REAR_SPEED_RATIO
+- RPMS
+- SLIPANGLE_FRONT_AVG
+- SLIPANGLE_FRONT_MAX
+- SLIPANGLE_REAR_AVG
+- SLIPANGLE_REAR_MAX
+- SLIPRATIO_AVG
+- SLIPRATIO_MAX
+- SPEED_KMH
+- STEER
+- STEER_DEG
+- SUS_TRAVEL_LR
+- SUS_TRAVEL_RR
+- WHEEL_STEER_DEG
+
+
+Controller is ready
+Loading dynamic controller for Turbo: 1
+Controller is ready
+ADDING GEAR:R
+ADDING GEAR:N
+ADDING GEAR:1
+ADDING GEAR:2
+ADDING GEAR:3
+ADDING GEAR:4
+ADDING GEAR:5
+ADDING GEAR:6
+Loading lut content/cars/ks_mclaren_650_gt3/data/abs_control.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/traction_control.lut
+CREATING DYNAMIC SUBSPACE AT INDEX:1
+RaceEngineer :: LOADING IDEAL LINE
+Loading AI Spline: content/tracks/monza/data/ideal_line.ai
+AI SPLINE VERSION 7
+LOADING VERSION 7
+Points count: 0
+LOADING GRID DATA
+MAX NUMBER OF GEARS 8
+MAX SPEED 225.000000 MIN_SPEED 1.000000
+MAX SPEED 78.004272 TURBOS 2
+FINAL FUEL : 6.173506
+MAX FUEL : 125.000000
+Using fuel per lap 3.882634 instead of eng calculated: 6.173506
+POWER CLASS INDEX: 484.418884 (ks_mclaren_650_gt3) PW:650187.000000 (871.913757 HP) W:1342.199951
+DIRECT INPUT DEVICE:vJoy Device
+DI Device created
+lpDirectInputDevice->CreateEffect successful GUID_ConstantForce
+lpDirectInputDevice->CreateEffect successful GUID_Damper
+Overriding assettocorsa.ini FF_SKIP_STEPS with controls.ini value: 0
+[STEER] JOY: 0
+[STEER] AXLE: 0
+[THROTTLE] JOY: 0
+[THROTTLE] AXLE: 1
+[THROTTLE] MIN: -1.000000
+[THROTTLE] MAX: 1.000000
+[BRAKES] JOY: 0
+[BRAKES] AXLE: 2
+[BRAKES] MIN: -1.000000
+[BRAKES] MAX: 1.000000
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[GEARDN] JOY: 0
+[GEARDN] BUTTON: 1
+[GEARDN] KEY: 67
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[GEARUP] JOY: 0
+[GEARUP] BUTTON: 0
+[GEARUP] KEY: 68
+[CLUTCH] JOY: -1
+[CLUTCH] AXLE: -1
+[CLUTCH] MIN: -1.000000
+[CLUTCH] MAX: 1.000000
+[HANDBRAKE] JOY: -1
+[HANDBRAKE] AXLE: -1
+[HANDBRAKE] MIN: -1.000000
+[HANDBRAKE] MAX: 1.000000
+[SHIFTER] ACTIVE: 0
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[GLANCELEFT] JOY: -1
+[GLANCELEFT] BUTTON: -1
+[GLANCELEFT] KEY: 81
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[GLANCERIGHT] JOY: -1
+[GLANCERIGHT] BUTTON: -1
+[GLANCERIGHT] KEY: 69
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[GLANCEBACK] JOY: -1
+[GLANCEBACK] BUTTON: -1
+[GLANCEBACK] KEY: 87
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ACTION_CHANGE_CAMERA] JOY: -1
+[ACTION_CHANGE_CAMERA] BUTTON: -1
+[ACTION_CHANGE_CAMERA] KEY: 86
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ACTION_HEADLIGHTS] JOY: -1
+[ACTION_HEADLIGHTS] BUTTON: -1
+[ACTION_HEADLIGHTS] KEY: 70
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ACTION_HEADLIGHTS_FLASH] JOY: -1
+[ACTION_HEADLIGHTS_FLASH] BUTTON: -1
+[ACTION_HEADLIGHTS_FLASH] KEY: 71
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ACTION_HORN] JOY: -1
+[ACTION_HORN] BUTTON: -1
+[ACTION_HORN] KEY: 72
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[HANDBRAKE] JOY: -1
+[HANDBRAKE] BUTTON: -1
+[HANDBRAKE] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[BALANCEDN] JOY: -1
+[BALANCEDN] BUTTON: -1
+[BALANCEDN] KEY: 219
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[BALANCEUP] JOY: -1
+[BALANCEUP] BUTTON: -1
+[BALANCEUP] KEY: 221
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[KERS] JOY: -1
+[KERS] BUTTON: -1
+[KERS] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[DRS] JOY: -1
+[DRS] BUTTON: -1
+[DRS] KEY: -1
+lpDirectInputDevice->CreateEffect successful GUID_ConstantForce
+lpDirectInputDevice->CreateEffect successful GUID_Damper
+[BRAKES] GAMMA: 1.000000
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ABSDN] JOY: -1
+[ABSDN] BUTTON: -1
+[ABSDN] KEY: 190
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ABSUP] JOY: -1
+[ABSUP] BUTTON: -1
+[ABSUP] KEY: 191
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[TCDN] JOY: -1
+[TCDN] BUTTON: -1
+[TCDN] KEY: 222
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[TCUP] JOY: -1
+[TCUP] BUTTON: -1
+[TCUP] KEY: 220
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[TURBODN] JOY: -1
+[TURBODN] BUTTON: -1
+[TURBODN] KEY: 76
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[TURBOUP] JOY: -1
+[TURBOUP] BUTTON: -1
+[TURBOUP] KEY: 186
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ENGINE_BRAKE_UP] JOY: -1
+[ENGINE_BRAKE_UP] BUTTON: -1
+[ENGINE_BRAKE_UP] KEY: 188
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[ENGINE_BRAKE_DN] JOY: -1
+[ENGINE_BRAKE_DN] BUTTON: -1
+[ENGINE_BRAKE_DN] KEY: 77
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[MGUK_DELIVERY_UP] JOY: -1
+[MGUK_DELIVERY_UP] BUTTON: -1
+[MGUK_DELIVERY_UP] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[MGUK_DELIVERY_DN] JOY: -1
+[MGUK_DELIVERY_DN] BUTTON: -1
+[MGUK_DELIVERY_DN] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[MGUK_RECOVERY_UP] JOY: -1
+[MGUK_RECOVERY_UP] BUTTON: -1
+[MGUK_RECOVERY_UP] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[MGUK_RECOVERY_DN] JOY: -1
+[MGUK_RECOVERY_DN] BUTTON: -1
+[MGUK_RECOVERY_DN] KEY: -1
+[ADVANCED] COMBINE_WITH_KEYBOARD_CONTROL: 0
+[MGUH_MODE] JOY: -1
+[MGUH_MODE] BUTTON: -1
+[MGUH_MODE] KEY: -1
+[STEER] STEER_FILTER: 0.050000
+[STEER] FILTER_FF: 0.000000
+[STEER] FF_GAIN: 0.000000
+[STEER] SCALE: 1.000000
+[STEER] LOCK: 900.000000
+[STEER] STEER_GAMMA: 2.000000
+[STEER] SPEED_SENSITIVITY: 0.000000
+[FF_ENHANCEMENT] CURBS: 0.000000
+[FF_ENHANCEMENT] ROAD: 0.000000
+[FF_ENHANCEMENT] SLIPS: 0.000000
+[FF_ENHANCEMENT] ABS: 0.000000
+[FF_ENHANCEMENT_2] UNDERSTEER: 0
+[FF_TWEAKS] MIN_FF: 0.000000
+[FF_TWEAKS] CENTER_BOOST_GAIN: 0.000000
+[FF_TWEAKS] CENTER_BOOST_RANGE: 0.100000
+LOADING COLLIDER MESH FILE: content/cars/ks_mclaren_650_gt3/collider.kn5
+LOADING MODEL content/cars/ks_mclaren_650_gt3/collider.kn5
+VERSION=6
+Loading 0 textures
+Car bounds L: 4.670868 W:2.063014 , front: 2.620963 rear: 2.049905
+DEBUG TIMER: Car::initColliderMesh:0.072100
+RADIUS FRONT, P:0.340000 , G:0.347926 , diff:-0.007926
+RADIUS REAR, P:0.352500 , G:0.352342 , diff:0.000158
+SMOKE LEVEL AT 3:eSmokeNormal
+SMOKE LEVEL AT 3:eSmokeNormal
+SMOKE LEVEL AT 3:eSmokeNormal
+SMOKE LEVEL AT 3:eSmokeNormal
+ENGINE SMOKE LEVEL SELECTED : eSmokeNormal
+Audio log (AudioEngine.cpp:1198): Loading bank content/cars/ks_mclaren_650_gt3/sfx/ks_mclaren_650_gt3.bank
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/car_shift_dw.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/car_shift_up.ksanim
+VERSION: 2
+LOADING ANIMATION: content/cars/ks_mclaren_650_gt3/animations/car_door_L.ksanim
+VERSION: 2
+ADDING BRAKE LIGHT: LIGHT_BRAKE
+ADDING BRAKE LIGHT: LIGHT_BRAKE
+ADDING BRAKE LIGHT: LIGHT_BRAKE
+ADDING LIGHT OBJECT LIGHTS_FRONT_EXTRA
+ADDING LIGHT OBJECT LIGHTS_FRONT_EXTRA
+ADDING LIGHT OBJECT LIGHTS_FRONT_EXTRA
+ADDING LIGHT OBJECT LIGHT_REAR
+ADDING LIGHT OBJECT LIGHT_REAR
+ADDING LIGHT OBJECT LIGHT_REAR
+ADDING LIGHT OBJECT LIGHTS_FRONT
+ADDING LIGHT OBJECT LIGHTS_FRONT
+ADDING LIGHT OBJECT LIGHTS_FRONT
+ADDING LIGHT OBJECT LIGHTS_FRONT_1
+ADDING LIGHT OBJECT LIGHTS_FRONT_1
+ADDING LIGHT OBJECT LIGHTS_FRONT_1
+ADDING LIGHT OBJECT GEO_Cockpit_HR_SUB15
+ADDING LIGHT OBJECT INT_INDICATOR_LIGHT
+ADDING LIGHT OBJECT MP4_RAINLIGHT
+ADDING LIGHT OBJECT MP4_RAINLIGHT
+ADDING LIGHT OBJECT MP4_RAINLIGHT
+ADDING LIGHT OBJECT INT_INDICATOR_AUX
+DigitalInstruments::initInstruments()
+650S_big MONOSPACE SIZE:0.021973 (min -1.101807)
+650S_mid MONOSPACE SIZE:0.021973 (min -1.101807)
+sls MONOSPACE SIZE:0.014648 (min -0.882324)
+sls MONOSPACE SIZE:0.014648 (min -0.882324)
+sls MONOSPACE SIZE:0.014648 (min -0.882324)
+650S_mid MONOSPACE SIZE:0.021973 (min -1.101807)
+german_led_mid MONOSPACE SIZE:0.014648 (min -0.870605)
+german_led_mid MONOSPACE SIZE:0.014648 (min -0.870605)
+digital_mid MONOSPACE SIZE:0.008789 (min -0.694336)
+digital_mid MONOSPACE SIZE:0.008789 (min -0.694336)
+digital_mid MONOSPACE SIZE:0.008789 (min -0.694336)
+DigitalPanels::initPanel()
+BRAKE DISC: g_Brake_Disk_LF FOUND FOR: DISC_LF
+FOUND 1 BRAKE DISCS MESHES FOR TYRE:0
+BRAKE DISC: g_Brake_Disk_RF FOUND FOR: DISC_RF
+FOUND 1 BRAKE DISCS MESHES FOR TYRE:1
+BRAKE DISC: g_Brake_Disk_LR FOUND FOR: DISC_LR
+FOUND 1 BRAKE DISCS MESHES FOR TYRE:2
+BRAKE DISC: g_Brake_Disk_RR FOUND FOR: DISC_RR
+FOUND 1 BRAKE DISCS MESHES FOR TYRE:3
+User FF gain loaded and set to 1.000000
+DEBUG TIMER: AUDIO LOAD:101.591900
+DEBUG TIMER: PHYSICS LOAD:257.109900
+goToSpawnPosition PIT
+[GHOST_CAR] RECORDING: 0
+[GHOST_CAR] PLAYING: 0
+[RACE] PENALTIES: 0
+Update Clouds Generation to 4_mid_clear 
+Loading custom weather: 4_mid_clear
+New session, resetting track dynamic objects
+goToSpawnPosition PIT
+
+POWER CLASS INDEX
+ks_mclaren_650_gt3: 484.4
+REPLAY QUALITY AT 33.333333 Hz
+MAX SIZE MB 26.000000
+ReplayManager MAX FRAMES COUNT 95588 WHICH IS 47.794000 MINS
+Autosave replay options min frame: 1000 
+ReplayManager initialized current type 1
+KGL CREATE FONT Consolas with locale 
+KGL CREATE FONT Consolas with locale 
+Requested set is the same already in use, no actions
+WARNING: TaskBarIcon :: COULD NOT FIND TEXTURES FOR FORM_MGU_ICON
+WARNING: TaskBarIcon :: COULD NOT FIND TEXTURES FOR FORM_BALLAST_ICON
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.83
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.58
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.37
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.18
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_front.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.658562
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.80
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.56
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.35
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.17
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.637567
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.78
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.54
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.33
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.15
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.616573
+cback: 0
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.83
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.58
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.37
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.18
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_front.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.658562
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.80
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.56
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.35
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.17
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.637567
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1893.5 1.00 @ 6.05 D:1.78
+TEST MAX, LOAD:3787.0 1.00 @ 6.11 D:1.54
+TEST MAX, LOAD:7574.0 1.00 @ 6.16 D:1.33
+TEST MAX, LOAD:15148.0 1.00 @ 6.39 D:1.15
+COOL FACTOR FINAL:0.000356
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_front.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.616573
+cback: 0
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.81
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.58
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.38
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.20
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_rear.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.664033
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.79
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.56
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.36
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.19
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.642969
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.76
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.54
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.34
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.17
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.621906
+cback: 0
+LOADING TYRE COMPOUND Slick Soft (S)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.81
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.58
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.38
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.20
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3s.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3s_rear.lut
+MAX WEAR AT: 28.799999 vKM , mult 0.880000
+SOFTNESS INDEX: 0.664033
+cback: 0
+LOADING TYRE COMPOUND Slick Medium (M)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.79
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.56
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.36
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.19
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3m.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3m_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.642969
+cback: 0
+LOADING TYRE COMPOUND Slick Hard (H)
+TEST MAX, LOAD:1955.0 1.00 @ 5.99 D:1.76
+TEST MAX, LOAD:3910.0 1.00 @ 6.05 D:1.54
+TEST MAX, LOAD:7820.0 1.00 @ 6.11 D:1.34
+TEST MAX, LOAD:15640.0 1.00 @ 6.33 D:1.17
+COOL FACTOR FINAL:0.000376
+Loading lut content/cars/ks_mclaren_650_gt3/data/tcurve_slicksGT3h.lut
+Loading lut content/cars/ks_mclaren_650_gt3/data/slicksGT3h_rear.lut
+MAX WEAR AT: 36.000000 vKM , mult 0.880000
+SOFTNESS INDEX: 0.621906
+cback: 0
+Initialising Python Interface
+Cleaning Python Cache in path apps/python/system/
+LOADING 4 PY APPS
+ERROR: Python [ERROR] File apps/python/acnotify/acnotify.py not found
+Cleaning Python Cache in path apps/python/Chat/
+Opening PyModule Chat
+Init PyPlugin:Chat
+WARNING: TaskBarIcon :: COULD NOT FIND TEXTURES FOR Python Chat_ICON
+'module' object has no attribute 'acUpdate'
+'module' object has no attribute 'acShutdown'
+Cleaning Python Cache in path apps/python/CrewChiefEx/
+Opening PyModule CrewChiefEx
+Init PyPlugin:CrewChiefEx
+WARNING: TaskBarIcon :: COULD NOT FIND TEXTURES FOR CrewChiefEx_ICON
+Function acUpdate bind to module
+'module' object has no attribute 'acShutdown'
+Cleaning Python Cache in path apps/python/gMeter/
+Opening PyModule gMeter
+Init PyPlugin:gMeter
+WARNING: TaskBarIcon :: COULD NOT FIND TEXTURES FOR G Meter_ICON
+'module' object has no attribute 'acUpdate'
+'module' object has no attribute 'acShutdown'
+Localized Setup I/O is NOT FOUND
+Localized Localized Localized Localized Loading pitstop.ini
+[SETTINGS] SIZE_MULT: 1.200000
+[SETTINGS] STAY_IN_CAR: 0
+[SETTINGS] AUTO_APP_ON_PITLANE: 1
+[SETTINGS] PRESETS_COUNT: 3
+[SETTINGS] HEADER_HEIGHT: 16.000000
+[SETTINGS] HEADER_FONT: 9.000000
+[SETTINGS] VISIBILITY_MAX_TIME: 5.000000
+[SETTINGS] OBJECT_POS_X: 80.000000
+[SETTINGS] OBJECT_POS_Y: 0.000000
+[SETTINGS] ITEM_HEIGHT: 20.000000
+[SETTINGS] ITEM_TITLE_WIDTH: 130.000000
+[SETTINGS] ITEM_VALUE_WIDTH: 80.000000
+[SETTINGS] FORM_ALIGNMENT_H: 2
+[SETTINGS] FORM_ALIGNMENT_V: 1
+[SETTINGS] FONT_IS_BOLD: 0
+[SETTINGS] FONT_IS_BOLD: 0
+Loading setup.ini
+Localized Localized Localized Localized Localized Localized Localized Localized Localized PITSTOP STRATEGY is NOT FOUND
+searching content/texture/crew_SUIT\type1\orange_black 
+searching content/texture/crew_HELMET\orange 
+searching content/texture/crew_BRAND\mclaren 
+LOADING MODEL content/objects3D/pitcrew.kn5
+VERSION=6
+Loading 14 textures
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds
+LOADING ANIMATION: content/objects3D/pitcrew.ksanim
+VERSION: 2
+LOADING ANIMATION: content/objects3D/pitcrew_idle_up.ksanim
+VERSION: 2
+LOADING ANIMATION: content/objects3D/pitcrew_idle_dw.ksanim
+VERSION: 2
+
+_________________________________________________________
+INITIALISING PLUGINS
+_________________________________________________________
+
+RemoteTelemetryUDP :: creating socket on port 9996
+Initializing TrackIR interface
+ERROR: TrackIR DLL Location key not present
+LoadLibrary failed
+TrackIR not found at Error
+LOADING CSV: content/tracks/monza/data/1.csv
+LOADING CSV: content/tracks/monza/data/2.csv
+LOADING CSV: content/tracks/monza/data/4.csv
+LOADING CSV: content/tracks/monza/data/3.csv
+LOADING CSV: content/tracks/monza/data/1.csv
+LOADING CSV: content/tracks/monza/data/4.csv
+LOADING CSV: content/tracks/monza/data/3.csv
+LOADING MODEL content/objects3D/pit_indicator.kn5
+VERSION=6
+Loading 1 textures
+LOADING MODEL content/objects3D/pitcrewtyre.kn5
+VERSION=6
+Loading 17 textures
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds
+LOADING ANIMATION: content/objects3D/pitcrewtyre.ksanim
+VERSION: 2
+LOADING MODEL content/objects3D/pitcrewtyre.kn5
+VERSION=6
+Loading 17 textures
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds
+LOADING ANIMATION: content/objects3D/pitcrewtyre.ksanim
+VERSION: 2
+LOADING MODEL content/objects3D/pitcrewtyre.kn5
+VERSION=6
+Loading 17 textures
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds
+LOADING ANIMATION: content/objects3D/pitcrewtyre.ksanim
+VERSION: 2
+LOADING MODEL content/objects3D/pitcrewtyre.kn5
+VERSION=6
+Loading 17 textures
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_HELMET\orange/Crew_HELMET_Color.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Gloves.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Gloves_NM.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_SUIT\type1\orange_black/DRIVER_Suit2.dds
+SKINNED TEXTURE content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_SUIT\type1\_nm/DRIVER_Suit_NM.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txDiffuse  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew.dds
+SKINNED TEXTURE content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds FOUND, OVERRIDING
+Assign texture override for textureless kn5. RES: txNormal  FILENAME:content/texture/crew_BRAND\mclaren/Brands_Crew_NM.dds
+LOADING ANIMATION: content/objects3D/pitcrewtyre.ksanim
+VERSION: 2
+KGL CREATE FONT Orbitron with locale 
+Init Fanatec Updater...
+Loading Fanatec Updater...
+led_big MONOSPACE SIZE:0.010498 (min 0.010254)
+Car::setSlipStreamEffects: receive:1.000000 speed_factor:1.000000
+Steam Interface :: COULDN't FIND A TIME TO BEAT!
+STARTING PHYSICS ENGINE
+RESET PHYSICS TIMER
+UNLOADING MESH RESOURCES
+ACQUIRED OK, REQUEST FF RESTART
+DInput input lost:
+Generating wind, base 36.048897 351.990723 -> 30.723469 350.144348
+Setting wind 30.723469 kmh direction: 350.144348 deg
+wind vector: (1.461648 , 0.000000 , 8.408199)
+PhysicsAvatar:: SESSION INFO RECEIVED
+First session, resetting dynamic track grip: 0.989246
+Car::setRequestedFuel: 30.000000
+Changing Car:0  tyre:0  compoundindex:1
+Changing Car:0  tyre:1  compoundindex:1
+Changing Car:0  tyre:2  compoundindex:1
+Changing Car:0  tyre:3  compoundindex:1
+Car::setRequestedFuel: 30.000000
+Changing Car:0  tyre:0  compoundindex:1
+Changing Car:0  tyre:1  compoundindex:1
+Changing Car:0  tyre:2  compoundindex:1
+Changing Car:0  tyre:3  compoundindex:1
+Car::setRequestedFuel: 30.000000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: DIFF_POWER from 0.600000 to 0.600000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: CAMBER_LF from 0.069812 to 0.068068
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: PACKER_RANGE_LF from 0.072000 to 0.070000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: CAMBER_RF from -0.069812 to -0.068068
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: PACKER_RANGE_RF from 0.072000 to 0.070000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: ROD_LENGTH_LR from 0.045000 to 0.045000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: CAMBER_LR from 0.057595 to 0.055851
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: TOE_OUT_LR from 0.000600 to 0.000600
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: PACKER_RANGE_LR from 0.075000 to 0.070000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: ROD_LENGTH_RR from 0.045000 to 0.045000
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: CAMBER_RR from -0.057595 to -0.055851
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: TOE_OUT_RR from 0.000600 to 0.000600
+Setup change for Car: ks_mclaren_650_gt3 [0] Changing: PACKER_RANGE_RR from 0.075000 to 0.070000
+DEBUG TIMER: Sim::Sim:6277.807500
+LOADING MODEL content/objects3D/cubemap_model.kn5
+VERSION=5
+Loading 6 textures
+TIME TO INIT: 6289.749200
+SplashScreen removed from evOnEndFrame that has 0 listeners
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=600 stagingBufferSize=600
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=1200 stagingBufferSize=1200
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=800 stagingBufferSize=800
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=800 stagingBufferSize=800
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=2000 stagingBufferSize=2000
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=800 stagingBufferSize=800
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=1000 stagingBufferSize=1000
+FINALIZING STATIC PARTICLE SYSTEM, particles.size()=1000 stagingBufferSize=1000
+ACCameraManager::fadeIn
+Car::setRequestedFuel: 30.000000
+ACCameraManager::fadeIn
+WAS LATE, HAD TO LOOP 2 times
+LOADING PP SET:photographic
+Loading PP set from: system/cfg/ppfilters/photographic.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:sepia
+Loading PP set from: system/cfg/ppfilters/sepia.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:photographic
+Loading PP set from: system/cfg/ppfilters/photographic.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:natural
+Loading PP set from: system/cfg/ppfilters/natural.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:movie
+Loading PP set from: system/cfg/ppfilters/movie.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:default_dark
+Loading PP set from: system/cfg/ppfilters/default_dark.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:default_bright
+Loading PP set from: system/cfg/ppfilters/default_bright.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:default
+Loading PP set from: system/cfg/ppfilters/default.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:default_bright
+Loading PP set from: system/cfg/ppfilters/default_bright.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:default_dark
+Loading PP set from: system/cfg/ppfilters/default_dark.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:movie
+Loading PP set from: system/cfg/ppfilters/movie.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:natural
+Loading PP set from: system/cfg/ppfilters/natural.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:photographic
+Loading PP set from: system/cfg/ppfilters/photographic.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:sepia
+Loading PP set from: system/cfg/ppfilters/sepia.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:vintage
+Loading PP set from: system/cfg/ppfilters/vintage.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+Requested set is the same already in use, no actions
+Requested set is the same already in use, no actions
+LOADING PP SET:sepia
+Loading PP set from: system/cfg/ppfilters/sepia.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:photographic
+Loading PP set from: system/cfg/ppfilters/photographic.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:natural
+Loading PP set from: system/cfg/ppfilters/natural.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:photographic
+Loading PP set from: system/cfg/ppfilters/photographic.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LOADING PP SET:natural
+Loading PP set from: system/cfg/ppfilters/natural.ini
+Creating render target 1920 1080
+Creating render target 1920 1080
+Creating render target 1920 1080
+RE-INSTANTIATE g_pPfxContext 0000000000000000
+Numbersofparticles: 10
+LAP VALID: 1 CUTS:0, COUNT: 1
+WAS LATE, HAD TO LOOP 5 times
+WAS LATE, HAD TO LOOP 2 times
+LAP VALID: 1 CUTS:0, COUNT: 2
+LAP VALID: 1 CUTS:0, COUNT: 3
+ACCameraManager::fadeIn
+WAS LATE, HAD TO LOOP 2 times
+SETTING PAUSE MODE: 1
+StartingLights pause mode changed: 1
+ACCameraManager::fadeIn
+SETTING PAUSE MODE: 0
+StartingLights pause mode changed: 0
+WAS LATE, HAD TO LOOP 314 times
+WAS LATE, HAD TO LOOP 7 times
+New session, resetting track dynamic objects
+goToSpawnPosition PIT
+Replay manager onNew session, current session: 1
+PhysicsAvatar:: SESSION INFO RECEIVED
+First session, resetting dynamic track grip: 0.977511
+Saving replay: D:\Documents/Assetto Corsa/replay/temp/AC_121023-153127_O_ks_mclaren_650_gt3_monza_
+Changing Car:0  tyre:0  compoundindex:1
+Changing Car:0  tyre:1  compoundindex:1
+Changing Car:0  tyre:2  compoundindex:1
+Changing Car:0  tyre:3  compoundindex:1
+Car::setRequestedFuel: 30.000000
+WAS LATE, HAD TO LOOP 94 times
+ACCameraManager::fadeIn
+Car::setRequestedFuel: 30.000000
+LAP VALID: 1 CUTS:0, COUNT: 1
+SETTING PAUSE MODE: 1
+StartingLights pause mode changed: 1
+ACCameraManager::fadeIn
+SETTING PAUSE MODE: 0
+StartingLights pause mode changed: 0
+RESET PHYSICS TIMER
+New session, resetting track dynamic objects
+goToSpawnPosition PIT
+Replay manager onNew session, current session: 1
+PhysicsAvatar:: SESSION INFO RECEIVED
+First session, resetting dynamic track grip: 0.974627
+Saving replay: D:\Documents/Assetto Corsa/replay/temp/AC_121023-153456_O_ks_mclaren_650_gt3_monza_
+Changing Car:0  tyre:0  compoundindex:1
+Changing Car:0  tyre:1  compoundindex:1
+Changing Car:0  tyre:2  compoundindex:1
+Changing Car:0  tyre:3  compoundindex:1
+Car::setRequestedFuel: 30.000000
+WAS LATE, HAD TO LOOP 16 times
+ACCameraManager::fadeIn
+Car::setRequestedFuel: 30.000000
+WAS LATE, HAD TO LOOP 4 times
+WAS LATE, HAD TO LOOP 4 times
+WAS LATE, HAD TO LOOP 3 times
+WAS LATE, HAD TO LOOP 2 times
+WAS LATE, HAD TO LOOP 4 times
+LAP VALID: 1 CUTS:0, COUNT: 1
+LAP VALID: 1 CUTS:0, COUNT: 2
+LAP VALID: 1 CUTS:0, COUNT: 3
+LAP VALID: 1 CUTS:0, COUNT: 4
+LAP VALID: 1 CUTS:0, COUNT: 5
+SETTING PAUSE MODE: 1
+StartingLights pause mode changed: 1
+ACCameraManager::fadeIn
+SETTING PAUSE MODE: 0
+StartingLights pause mode changed: 0
+ON REPLAY MODE CHANGED 6
+StartingLights::onReplayStatusChanged newStatus: 6 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 5
+StartingLights::onReplayStatusChanged newStatus: 5 active: 0
+ON REPLAY MODE CHANGED 5
+StartingLights::onReplayStatusChanged newStatus: 5 active: 0
+ON REPLAY MODE CHANGED 5
+StartingLights::onReplayStatusChanged newStatus: 5 active: 0
+ON REPLAY MODE CHANGED 5
+StartingLights::onReplayStatusChanged newStatus: 5 active: 0
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+Saving replay: D:\Documents/Assetto Corsa/replay/ks_mclaren_650_gt3_monza__121023-155320
+ON REPLAY MODE CHANGED 1
+StartingLights::onReplayStatusChanged newStatus: 1 active: 0
+ON REPLAY MODE CHANGED 9
+StartingLights::onReplayStatusChanged newStatus: 9 active: 0
+ON REPLAY MODE CHANGED 10
+StartingLights::onReplayStatusChanged newStatus: 10 active: 0
+ON REPLAY MODE CHANGED 0
+StartingLights::onReplayStatusChanged newStatus: 0 active: 0
+ON REPLAY MODE CHANGED 7
+StartingLights::onReplayStatusChanged newStatus: 7 active: 1
+SETTING PAUSE MODE: 1
+StartingLights pause mode changed: 1
+Saving replay: D:\Documents/Assetto Corsa/replay/temp/AC_121023-160238_O_ks_mclaren_650_gt3_monza_
+closing pluginManager
+DELETING PY PLUGIN gMeter
+DELETING PY PLUGIN CrewChiefEx
+DELETING PY PLUGIN Chat
+km_per_liter: 3.831195 lap_eval: 1.503098  , evaluator: 3.079797 (guess: 3.882634), length:5758.660645
+PCI: ks_mclaren_650_gt3 = 280.3
+Saving telemetry channel LAP_BEACON with 341205 samples @ 100
+Saving telemetry channel G_LAT with 68242 samples @ 20
+Saving telemetry channel ROTY with 68242 samples @ 20
+Saving telemetry channel STEERANGLE with 68242 samples @ 20
+Saving telemetry channel SPEED with 68242 samples @ 20
+Saving telemetry channel THROTTLE with 68242 samples @ 20
+Saving telemetry channel BRAKE with 68242 samples @ 20
+Saving telemetry channel GEAR with 68242 samples @ 20
+Saving telemetry channel G_LON with 68242 samples @ 20
+Saving telemetry channel CLUTCH with 68242 samples @ 20
+Saving telemetry channel RPMS with 68242 samples @ 20
+Saving telemetry channel SPLINE_POSITION with 68242 samples @ 20
+Saving telemetry channel SUS_TRAVEL_LF with 682409 samples @ 200
+Saving telemetry channel SUS_TRAVEL_RF with 682409 samples @ 200
+Saving telemetry channel SUS_TRAVEL_LR with 682409 samples @ 200
+Saving telemetry channel SUS_TRAVEL_RR with 682409 samples @ 200
+Saving telemetry channel WHEEL_SPEED_LF with 68242 samples @ 20
+Saving telemetry channel WHEEL_SPEED_RF with 68242 samples @ 20
+Saving telemetry channel WHEEL_SPEED_LR with 68242 samples @ 20
+Saving telemetry channel WHEEL_SPEED_RR with 68242 samples @ 20
+Destroying PhysicsEngine
+Destroyng font: Consolas
+Destroyng font: Consolas Bold
+Destroyng font: Consolas Italic Bold
+Destroyng font: Orbitron
+Destroyng font: Orbitron Bold
+Destroyng font: Segoe UI
+Destroyng font: Segoe UI Bold
+Destroyng font: Segoe UI Italic
+CLEAN EXIT

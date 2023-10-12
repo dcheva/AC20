@@ -1,0 +1,81 @@
+CON0=vJoy Device
+FFB: eec6993a-b3fd-11d2-a916-00c04fb98638
+Instance GUID: cbc63870-5318-11ee-8007-444553540000
+Product GUID: bead1234-0000-0000-0000-504944564944
+	Axes available: 8		0(0) 	Name: X Axis [ X Axis ]
+		0	Offset: 0
+		0	Usage: 48 / x
+		0	UsagePage: 1
+
+		0(0) 	Name: Y Axis [ Y Axis ]
+		0	Offset: 1
+		0	Usage: 49 / y
+		0	UsagePage: 1
+
+		0(0) 	Name: Z Axis [ Z Axis ]
+		0	Offset: 2
+		0	Usage: 50 / z
+		0	UsagePage: 1
+
+		0(0) 	Name: X Rotation [ X Rotation ]
+		0	Offset: 3
+		0	Usage: 51 / rx
+		0	UsagePage: 1
+
+		0(0) 	Name: Y Rotation [ Y Rotation ]
+		0	Offset: 4
+		0	Usage: 52 / ry
+		0	UsagePage: 1
+
+		0(0) 	Name: Z Rotation [ Z Rotation ]
+		0	Offset: 5
+		0	Usage: 53 / rz
+		0	UsagePage: 1
+
+		0(0) 	Name: Slider [ Slider ]
+		0	Offset: 6
+		0	Usage: 54 / slider
+		0	UsagePage: 1
+
+		0(0) 	Name: Dial [ Dial ]
+		0	Offset: 7
+		0	Usage: 55 / dial
+		0	UsagePage: 1
+
+
+	Buttons
+		0(0) 	Name: Button 0
+		0	Usage: 1 / 1
+		0	UsagePage: 9
+
+		1(0) 	Name: Button 1
+		1	Usage: 2 / 2
+		1	UsagePage: 9
+
+		2(0) 	Name: Button 2
+		2	Usage: 3 / 3
+		2	UsagePage: 9
+
+		3(0) 	Name: Button 3
+		3	Usage: 4 / 4
+		3	UsagePage: 9
+
+		4(0) 	Name: Button 4
+		4	Usage: 5 / 5
+		4	UsagePage: 9
+
+		5(0) 	Name: Button 5
+		5	Usage: 6 / 6
+		5	UsagePage: 9
+
+		6(0) 	Name: Button 6
+		6	Usage: 7 / 7
+		6	UsagePage: 9
+
+		7(0) 	Name: Button 7
+		7	Usage: 8 / 8
+		7	UsagePage: 9
+
+
+	POVs
+
