@@ -1,7 +1,7 @@
-12-Oct-23 13:46:59 
+13-Oct-23 18:19:15 
 Skipped MoveUGC
 1: IGNOREDPI
- PID: 392
+ PID: 804
 
 AC Launcher ver. 0.17.1222.5071
 Running on: Microsoft Windows NT 6.2.9200.0 x64
@@ -61,7 +61,6 @@ Type:Normal
 vJoy Device acquired successfully
 Adding vJoy Device (cbc63870-5318-11ee-8007-444553540000) at 0 (FirstPerson)
 Device released: vJoy Device
-No controllers with assigned controls defined in controls.ini
 Steam callback timer active
 ls: about:blank
 le: about:blank
@@ -186,350 +185,27 @@ Available Video Modes
 Received UIReady
 Monitoring for: acs.exe
 * UI Initialized
-Viewing theme
-_bC: 1920x1080 1920x1080 - True
-12-Oct-23 13:48:03 >> acs start call
-12-Oct-23 13:48:03 >> acs spawner 
->> NoResize
-12-Oct-23 13:48:04 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 13:51:13 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 13:52:30 - Controls setup: Visible
-CS: OCC f: 66361692 s: 66361692 -- 00000000-0000-0000-0000-000000000000
-CS: OCC f: 66361692 s: 66361692 -- 00000000-0000-0000-0000-000000000000
-12-Oct-23 13:54:35 - Controls setup: Hidden
-Device released: vJoy Device
-PING 192.168.101.157 - server ping attempts: 11
-12-Oct-23 14:00:02 >> acs start call
-12-Oct-23 14:00:02 >> acs spawner 
->> NoResize
-12-Oct-23 14:00:02 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:00:45 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:01:03 >> acs start call
-12-Oct-23 14:01:03 >> acs spawner 
->> NoResize
-12-Oct-23 14:01:03 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:04:02 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:04:08 >> acs start call
-12-Oct-23 14:04:08 >> acs spawner 
->> NoResize
-12-Oct-23 14:04:09 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:04:50 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-12-Oct-23 14:04:54 - Controls setup: Visible
-Return from session timer end.
-12-Oct-23 14:06:56 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:07:03 >> acs start call
-12-Oct-23 14:07:03 >> acs spawner 
->> NoResize
-12-Oct-23 14:07:04 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:12:34 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:12:44 >> acs start call
-12-Oct-23 14:12:44 >> acs spawner 
->> NoResize
-12-Oct-23 14:12:46 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:13:47 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:15:50 >> acs start call
-12-Oct-23 14:15:50 >> acs spawner 
->> NoResize
-12-Oct-23 14:15:51 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:17:03 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:17:08 - Controls setup: Visible
-12-Oct-23 14:18:52 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:18:57 >> acs start call
-12-Oct-23 14:18:57 >> acs spawner 
->> NoResize
-12-Oct-23 14:18:57 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:22:10 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:22:16 - Controls setup: Visible
-Device released: vJoy Device
-12-Oct-23 14:26:40 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:26:47 >> acs start call
-12-Oct-23 14:26:47 >> acs spawner 
->> NoResize
-12-Oct-23 14:26:47 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:28:54 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:29:04 - Controls setup: Visible
-Device released: vJoy Device
-12-Oct-23 14:29:50 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:29:54 >> acs start call
-12-Oct-23 14:29:54 >> acs spawner 
->> NoResize
-12-Oct-23 14:29:56 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:36:14 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-12-Oct-23 14:36:18 - Controls setup: Visible
-Return from session timer end.
-12-Oct-23 14:36:56 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:37:00 >> acs start call
-12-Oct-23 14:37:00 >> acs spawner 
->> NoResize
-12-Oct-23 14:37:02 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:38:39 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-12-Oct-23 14:38:44 - Controls setup: Visible
-Return from session timer end.
-12-Oct-23 14:39:02 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:39:06 >> acs start call
-12-Oct-23 14:39:06 >> acs spawner 
->> NoResize
-12-Oct-23 14:39:07 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:39:47 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-12-Oct-23 14:39:51 - Controls setup: Visible
-Return from session timer end.
-12-Oct-23 14:40:06 - Controls setup: Hidden
-Device released: vJoy Device
-12-Oct-23 14:40:10 >> acs start call
-12-Oct-23 14:40:10 >> acs spawner 
->> NoResize
-12-Oct-23 14:40:11 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 14:46:09 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:48:56 >> acs start call
-12-Oct-23 14:48:56 >> acs spawner 
->> NoResize
-12-Oct-23 14:48:57 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
 Close requested
 Viewing theme
 _bC: 1920x1080 1920x1080 - True
-12-Oct-23 14:49:34 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 14:49:40 >> acs start call
-12-Oct-23 14:49:40 >> acs spawner 
->> NoResize
-12-Oct-23 14:49:40 !>> acs.exe active
-1920 / VSW: 1920 / W: 1920
-Could not connect named pipe.
-12-Oct-23 16:02:40 !>> acs.exe stopped
-1920 / VSW: 1920 / W: 1920
-Regaining focus
-OSC - Returned from session: ignoring resize request. W: 160
-OSC - Returned from session: ignoring resize request. W: 1920
-Listing files for D:\Documents\Assetto Corsa\\cfg\ppfilters\
-Listing files for C:\Games\Assetto Corsa\\system\cfg\ppfilters\
-\\.\DISPLAY1 0 / 1858
-Width limited: 2560
-Current screen: 1920 x 1080
-GetWindowRect: 1920 x 1080 -- 0,1920,1080,0
-Window 1920/1920 x 1080/1080 (1/1)
-Resize 1920/1920 x 1080/1080 (1/1)
-Return from session timer end.
-12-Oct-23 16:03:00 > exit *
-12-Oct-23 16:03:00 > exit 1
-12-Oct-23 16:03:00 > exit 1.1
-12-Oct-23 16:03:00 > exit 1.2
-12-Oct-23 16:03:00 > exit 1.3
-12-Oct-23 16:03:00 > exit 1.4
-12-Oct-23 16:03:00 > exit 2
-12-Oct-23 16:03:00 > exit 2.1
-12-Oct-23 16:03:00 > exit 2.2
-12-Oct-23 16:03:00 > exit 2.3
-12-Oct-23 16:03:00 > exit 2.4
-12-Oct-23 16:03:00 > exit 2.5
-12-Oct-23 16:03:00 > exit 2.6
-12-Oct-23 16:03:00 > exit 3
+13-Oct-23 18:19:52 > exit *
+13-Oct-23 18:19:52 > exit 1
+13-Oct-23 18:19:52 > exit 1.1
+13-Oct-23 18:19:52 > exit 1.2
+13-Oct-23 18:19:52 > exit 1.3
+13-Oct-23 18:19:52 > exit 1.4
+13-Oct-23 18:19:52 > exit 2
+13-Oct-23 18:19:52 > exit 2.1
+13-Oct-23 18:19:52 > exit 2.2
+13-Oct-23 18:19:52 > exit 2.3
+13-Oct-23 18:19:52 > exit 2.4
+13-Oct-23 18:19:52 > exit 2.5
+13-Oct-23 18:19:52 > exit 2.6
+13-Oct-23 18:19:52 > exit 3
 Credits sequence complete
 Shutdown
 Close requested
 Closing window
 OnExit
 Shutting down Steam API connection (oe)
-12-Oct-23 16:03:05 > app exit
+13-Oct-23 18:19:58 > app exit
